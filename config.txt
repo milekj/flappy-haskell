@@ -1,0 +1,11 @@
+bgColorR = 10
+bgColorG = 1
+bgColorB = 45
+level = 9
+windowHeight = 600 
+windowWidth = 800
+wallColorR = 40
+wallColorB = 111
+squareColorR = 50
+squareColorG = 29
+squareColorB = 250

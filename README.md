@@ -1,1 +1,1 @@
-# flappy-haskell
+# project
